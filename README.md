@@ -1,2 +1,10 @@
-# Power-BI-Portfolio
-Showcasing interactive dashboards, data modeling, DAX calculations, Power Query transformations, and business insights. Includes real-world projects focused on KPI tracking, sales analysis, financial reporting, and data visualization to support data-driven decision-making.
+# Power BI Portfolio — Pranjul
+
+## Superstore Sales Intelligence Dashboard
+- 6 KPI measures including YTD Sales and Sales LY
+- Conditional formatting highlighting loss-making sub-categories  
+- Time intelligence with drill-down by Year, Quarter, Month
+- 4 interactive slicers — Region, Category, Year, Month
+- Custom Date Dimension table
+
+[Dashboard Screenshot](screenshot filename here)
