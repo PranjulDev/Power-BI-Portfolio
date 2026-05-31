@@ -7,4 +7,4 @@
 - 4 interactive slicers — Region, Category, Year, Month
 - Custom Date Dimension table
 
-[Dashboard Screenshot](screenshot filename here)
+[Superstore Sales Intelligence.png]
