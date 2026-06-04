@@ -113,7 +113,7 @@ High Earners = CALCULATE(COUNTROWS(HR), HR[MonthlyIncome] > 6500)
 
 ## Contact
 Available for full-time/freelance Power BI development roles.
+
 Email ID: pranjulgupta25@outlook.com
+
 Resume:(https://linkedin.com/in/pranjul-gupta-003875192)
-- Time intelligence and drill-through functionality
-- Data storytelling and business insights
